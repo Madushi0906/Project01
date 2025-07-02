@@ -3,8 +3,7 @@ this is pro1 in local repo
 
 <!DOCTYPE html>
 <html > 
-<head> 
-  <title>My First Page</title>
+<head>  
 </head>
 <body>
 
